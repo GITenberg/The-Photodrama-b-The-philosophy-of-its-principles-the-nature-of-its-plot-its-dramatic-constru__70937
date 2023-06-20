@@ -1,0 +1,33 @@
+_repo: The-Photodrama-b-The-philosophy-of-its-principles-the-nature-of-its-plot-its-dramatic-constru__70937
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Blackton, J. Stuart
+    gutenberg_agent_id: '56002'
+    url: http://www.gutenberg.org/2009/agents/56002
+creator:
+  author:
+    agent_name: Phillips, Henry Albert
+    gutenberg_agent_id: '56001'
+    url: http://www.gutenberg.org/2009/agents/56001
+description: ''
+gutenberg_issued: '2023-06-07'
+identifiers:
+  gutenberg: '70937'
+language: en
+pgterms:marc904: https://archive.org/details/photodramaphilos01phil/page/n5/mode/2up
+pgterms:marc905: 20210123122840phillips
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Alan, Charlene Taylor and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bStanhope-Dodge Publishing Company, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Photodrama : $b The philosophy of its principles, the nature of its plot,
+  its dramatic construction and technique illumined by copious examples.... (2nd Edition)'
+url: http://www.gutenberg.org/ebooks/70937
