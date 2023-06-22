@@ -5,12 +5,17 @@ contributor:
     agent_name: Blackton, J. Stuart
     gutenberg_agent_id: '56002'
     url: http://www.gutenberg.org/2009/agents/56002
+covers:
+- cover_type: archival
+  image_path: 70937-h/images/cover.jpg
 creator:
   author:
     agent_name: Phillips, Henry Albert
     gutenberg_agent_id: '56001'
     url: http://www.gutenberg.org/2009/agents/56001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70937#The-Photodrama-b-The-philosophy-of-its-principles-the-nature-of-its-plot-its-dramatic-constru_
 gutenberg_issued: '2023-06-07'
 identifiers:
   gutenberg: '70937'
